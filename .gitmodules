@@ -4,3 +4,6 @@
 [submodule "demo-discovery-server"]
 	path = demo-discovery-server
 	url = git@github.com:kwizeraelvis/demo-discovery-server.git
+[submodule "demo-apigateway-server"]
+	path = demo-apigateway-server
+	url = git@github.com:kwizeraelvis/demo-apigateway-server.git
