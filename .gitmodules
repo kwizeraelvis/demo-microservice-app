@@ -7,3 +7,6 @@
 [submodule "demo-apigateway-server"]
 	path = demo-apigateway-server
 	url = git@github.com:kwizeraelvis/demo-apigateway-server.git
+[submodule "demo-tasks-service"]
+	path = demo-tasks-service
+	url = git@github.com:kwizeraelvis/demo-tasks-service.git
