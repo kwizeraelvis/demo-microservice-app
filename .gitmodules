@@ -1,0 +1,3 @@
+[submodule "demo-config-server"]
+	path = demo-config-server
+	url = git@github.com:kwizeraelvis/demo-config-server.git
